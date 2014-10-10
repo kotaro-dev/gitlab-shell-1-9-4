@@ -1,3 +1,13 @@
+### add following request , until these request be closed.  
+
+* [gitlab can now init repositories #6127](https://github.com/gitlabhq/gitlabhq/pull/6127/files)  
+* [Repo init #153](https://github.com/gitlabhq/gitlab-shell/pull/153/files)  
+* [Project Template for Project Creation #7069](https://github.com/gitlabhq/gitlabhq/pull/7069/files)  
+
+thank you Mr.pixel-shock.  
+[https://github.com/pixel-shock](https://github.com/pixel-shock)  
+
+
 # gitlab-shell: ssh access and repository management
 
 GitLab Shell is an application that allows you to execute git commands and provide ssh access to git repositories. It is not a unix shell nor a replacement for Bash or Zsh.
